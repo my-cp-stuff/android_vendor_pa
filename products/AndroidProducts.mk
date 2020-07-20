@@ -45,6 +45,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/rolex/pa_rolex.mk \
     $(LOCAL_DIR)/rosy/pa_rosy.mk \
     $(LOCAL_DIR)/sagit/pa_sagit.mk \
+    $(LOCAL_DIR)/mido/pa_mido.mk \
     $(LOCAL_DIR)/sakura/pa_sakura.mk \
     $(LOCAL_DIR)/whyred/pa_whyred.mk \
     $(LOCAL_DIR)/X00TD/pa_X00TD.mk \
@@ -62,6 +63,7 @@ COMMON_LUNCH_CHOICES += \
     pa_equuleus-userdebug \
     pa_ginkgo-userdebug \
     pa_hlte-userdebug \
+    pa_mido-userdebug \
     pa_hltechn-userdebug \
     pa_hltekor-userdebug \
     pa_hltetmo-userdebug \
